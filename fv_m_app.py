@@ -11,7 +11,7 @@ import torchvision
 from torch import nn
 
 
-def fuck_you():
+def fv_m_app():
 
     global g_vit
     global g_vit_transforms
